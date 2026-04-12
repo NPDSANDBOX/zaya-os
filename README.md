@@ -1,6 +1,20 @@
 # ZAYA OS
 
-> *The first open-source AI operating system that turns a single machine into a complete autonomous content studio — from text to cinematic video, with no cloud dependency, no per-use cost, and no creative limits.*
+> *The first AI operating system that turns a single machine into a complete autonomous content studio — from text to cinematic video, with no cloud dependency, no per-use cost, and no creative limits.*
+
+---
+
+### Project Status
+
+**ZAYA OS has evolved significantly beyond what is represented in this repository.** The system now includes multi-agent architecture, autonomous cognition loops, real-time voice interaction, supervised process management, and production-grade video pipelines that are not reflected here.
+
+**This repository will no longer receive updates.** What you see here is a historical snapshot of the early foundation. The project continues to grow privately.
+
+Thank you to those who took the time to look. And thank you for the downvotes on Reddit — they were noted.
+
+*— Mike Henri, April 2026*
+
+---
 
 ## What is ZAYA OS?
 
@@ -155,22 +169,6 @@ Orchestrator
 └── Agent 4 — final assembly
 \`\`\`
 
-## Contributing
-
-\`\`\`bash
-git fork https://github.com/NPDSANDBOX/zaya-os.git
-git checkout -b feature/my-new-pipeline
-git commit -m "Add: my new pipeline"
-git push origin feature/my-new-pipeline
-\`\`\`
-
-### Ways to contribute:
-- New pipelines
-- New models integration
-- Documentation improvements
-- Bug fixes
-- Performance optimizations
-
 ## License
 
 MIT License — free to use, modify and distribute.
@@ -178,6 +176,6 @@ MIT License — free to use, modify and distribute.
 ## Credits
 
 **Created by Mike Henri**
-Tokyo, Japan 🇯🇵 — April 2026
+Tokyo, Japan — April 2026
 
 *Built from zero. No cloud. No limits. Just a machine and a vision.*
