@@ -16,6 +16,14 @@ Thank you to those who took the time to look. And thank you for the downvotes on
 
 ---
 
+## Copyright & Authorship
+
+ZAYA OS was **conceived, designed and developed by Mike Henri** — the result of over a year of independent research and engineering. The architecture, source code, core concepts and design decisions are his original intellectual work.
+
+**© 2025–2026 Mike Henri. All rights reserved**, except for the freedoms explicitly granted under the AGPL-3.0 license (see [License](#license) below). Use of this project does not transfer any ownership of the underlying ideas or implementation.
+
+---
+
 ## What is ZAYA OS?
 
 ZAYA OS is a modular, local-first AI operating system built for autonomous content production. It runs entirely on your own hardware — no cloud, no API costs, no limits.
@@ -171,7 +179,13 @@ Orchestrator
 
 ## License
 
-MIT License — free to use, modify and distribute.
+ZAYA OS is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See the [LICENSE](LICENSE) file for the full text.
+
+In short: you are free to use, study, modify and share ZAYA OS — but if you run a modified version, **including over a network or as a hosted service**, you must release your modifications under the same license. This keeps the project open and prevents anyone from taking the work, building a closed commercial product on top of it, and giving nothing back.
+
+### Commercial licensing
+
+The AGPL-3.0 is not suitable for every use case. If you want to use ZAYA OS inside a proprietary or closed-source product without the copyleft obligations, a separate **commercial license is available**. As the sole copyright holder, the author can grant such exceptions — contact **Mike Henri** to discuss commercial terms.
 
 ## Credits
 
